@@ -1,4 +1,4 @@
-arduino_bluetooth
+arduino_bluetooth_AppInventor
 =================
 
 Como criar um App Android no AppInventor para controlar o Arduino via Bluetooth
